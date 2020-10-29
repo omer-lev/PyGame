@@ -1,0 +1,7 @@
+# Stuff I don't really understand -
+    [ ] Jump formula
+    [ ] Drawing character according to FPS
+
+# challanges -
+    [X] check for player - goblin collision
+    [X] add score for every bullet hit on goblin
